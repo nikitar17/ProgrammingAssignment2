@@ -18,7 +18,6 @@ inv <- NULL
              setInverse = setInverse,
              getInverse = getInverse)
 
-
 }
 
 
